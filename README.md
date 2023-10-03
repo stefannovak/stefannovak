@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Check out my public Nectarine API at [Nectarine](https://nectarine-dev.fly.dev/swagger/index.html)
+Check out my public ASP.NET Core Web API at [Nectarine](https://nectarine-dev.fly.dev/swagger/index.html)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefannovak)](https://github.com/anuraghazra/github-readme-stats)
 
