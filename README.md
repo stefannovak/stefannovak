@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Check out my public Nectarine API at [![Nectarine](https://nectarine-dev.fly.dev/swagger/index.html)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefannovak)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefannovak&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
