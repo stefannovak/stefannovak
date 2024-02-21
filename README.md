@@ -1,5 +1,4 @@
 ### Hi there 👋
-## I'm looking for work!
 
 Check out my public ASP.NET Core Web API at [Nectarine](https://nectarine-dev.fly.dev/swagger/index.html)
 
