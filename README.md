@@ -8,6 +8,7 @@ I also write some tutorial articles on [Medium!](https://medium.com/@stefannovak
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefannovak&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+Not many contributions from 2024 due to using Azure Pipelines for version control at my new company.
 <!--
 **stefannovak/stefannovak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
