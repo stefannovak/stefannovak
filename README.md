@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Check out my public ASP.NET Core Web API at [Nectarine](https://nectarine-dev.fly.dev/swagger/index.html)
+Check out my public ASP.NET Core Web API at [Nectarine](https://nectarine-dev.fly.dev/swagger/index.html) (Turned off for the moment ($$$))
 
 I also write some tutorial articles on [Medium!](https://medium.com/@stefannovak96/hosting-a-keycloak-server-and-postgres-database-on-fly-69caf2da8a09)
 
