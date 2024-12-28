@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Check out my public ASP.NET Core Web API at [Nectarine](https://nectarine-dev.fly.dev/swagger/index.html) (Turned off for the moment ($$$))
+I'm working on reinventing the NHS back end using modern microservices design patterns at the moment [NHSv2](https://github.com/stefannovak/NHSv2)
 
-I also write some tutorial articles on [Medium!](https://medium.com/@stefannovak96/hosting-a-keycloak-server-and-postgres-database-on-fly-69caf2da8a09)
+I also write some articles on [Medium!](https://medium.com/@stefannovak96/hosting-a-keycloak-server-and-postgres-database-on-fly-69caf2da8a09)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefannovak)](https://github.com/anuraghazra/github-readme-stats)
 
