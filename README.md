@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[NHSv2](https://github.com/stefannovak/NHSv2) is my portfolio project, showcasing CQRS and Event Sourcing with nicroservices design patterns.
+[NHSv2](https://github.com/stefannovak/NHSv2) is my portfolio project, showcasing CQRS and Event Sourcing with microservices design patterns.
 
 I also write some articles on [Medium!](https://medium.com/@stefannovak96/hosting-a-keycloak-server-and-postgres-database-on-fly-69caf2da8a09)
 
